@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-Apache--2.0-green?style=flat-square)](https://opensource.org/licenses/Apache-2.0)
 [![Python Versions](https://img.shields.io/badge/Python-3.12-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-This repository contains all scripts and data-links necessary for reproducing the results for estimating quality of reviews.
+This repository contains all scripts and data-links necessary for reproducing the results for estimating quality of reviews. **To appear in EMNLP-2026 Main conference**.
 
 ---
 
@@ -80,7 +80,7 @@ We already provide all the necessary files for the 16 venues we have considered 
 
 ## Cite
 
-Please use the following citation:
+The final version of this paper is to appear at EMNLP-2026 Main conference. In the meantime, please use the following citation:
 
 ```
 @misc{kuznetsov2026peerreviewreallydecline,
