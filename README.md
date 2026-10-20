@@ -21,7 +21,7 @@ Contact person: [Rohan Nayak](mailto:rohan.nayak@tu-darmstadt.de)
 
 Don't hesitate to send us an e-mail if you have further questions.
 
-2026-10-20 NOTE: Due to temporary spam filtering issue at TUDatalib, you might get an 403 error when opening the dataset link below from an arbitrary IP. If this happens, try opening it from your company or university network. This is a temporary issue. If all fails, contact us :)
+2026-10-20 NOTE: Due to temporary spam filtering issue at TUDatalib, you might get an 403 error when opening the dataset link below from an arbitrary IP. This should happen very rarely. If this happens, try opening the link from your company or university network. If all fails, contact us :)
 
 ## Quick Start
 
