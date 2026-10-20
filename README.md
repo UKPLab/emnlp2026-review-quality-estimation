@@ -21,11 +21,13 @@ Contact person: [Rohan Nayak](mailto:rohan.nayak@tu-darmstadt.de)
 
 Don't hesitate to send us an e-mail if you have further questions.
 
+2026-10-20 NOTE: Due to temporary spam filtering issue at TUDatalib, you might get an 403 error when opening the dataset link below from an arbitrary IP. If this happens, try opening it from your company or university network. This is a temporary issue. If all fails, contact us :)
+
 ## Quick Start
 
 ### Download dataset
 Download the dataset in the repository root from [here](https://tudatalib.ulb.tu-darmstadt.de/items/59291e08-8477-4d48-80bb-52aa717b48f6). 
-(NOTE: Due to spam filtering at TUDatalib, you might get an 403 error when connecting from an arbitrary IP. If this happens, try opening the link from your company or university network.)
+
 
 #### Details of each folder
 - ``full`` contains all the crawled data for the 16 considered venues. This contains crawled data from OpenReview and ARR cycles.
