@@ -24,7 +24,9 @@ Don't hesitate to send us an e-mail if you have further questions.
 ## Quick Start
 
 ### Download dataset
-Download the dataset in the repository root from [here](https://tudatalib.ulb.tu-darmstadt.de/items/59291e08-8477-4d48-80bb-52aa717b48f6).
+Download the dataset in the repository root from [here](https://tudatalib.ulb.tu-darmstadt.de/items/59291e08-8477-4d48-80bb-52aa717b48f6). 
+(NOTE: Due to spam filtering at TUDatalib, you might get an 403 error when connecting from an arbitrary IP. If this happens, try opening the link from your company or university network.)
+
 #### Details of each folder
 - ``full`` contains all the crawled data for the 16 considered venues. This contains crawled data from OpenReview and ARR cycles.
 - ``sample`` contains the itemized and sentence split versions of the review text for a maximum of 1000 reviews sampled for each venue.
